@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/psf/pyperf/commit/00556e18777c36cfd96c91fdf1cd6bf70dd8c276",
       "git:hexsha": "00556e18777c36cfd96c91fdf1cd6bf70dd8c276",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/psf/pyperf/commit/4ee18b5753977cd5bb85f21dd5335b47a35f5a47",
